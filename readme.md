@@ -1,6 +1,12 @@
 # Ledger - iOS记账应用
+ <div style="display:flex">
+   <img src="./Screenshot/home.png" width="150"/>
+   <img src="./Screenshot/statistics.png" width="150"/>
+   <img src="./Screenshot/statistics2.png" width="150"/>
+</div>
+<br>
 
-一个使用 SwiftUI 开发的简洁美观的个人记账应用，完全遵循 Apple 的设计规范和人机交互指南。
+一个使用 SwiftUI 开发的简洁美观的个人记账应用
 
 ## 功能特点
 

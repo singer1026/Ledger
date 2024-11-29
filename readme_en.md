@@ -1,6 +1,11 @@
 # Ledger - iOS Personal Finance App
-
-A clean and beautiful personal finance app developed with SwiftUI, fully compliant with Apple's design guidelines and human interface guidelines.
+ <div style="display:flex">
+   <img src="./Screenshot/home.png" width="150"/>
+   <img src="./Screenshot/statistics.png" width="150"/>
+   <img src="./Screenshot/statistics2.png" width="150"/>
+</div>
+<br>
+A clean and beautiful personal finance app developed with SwiftUI
 
 ## Features
 
